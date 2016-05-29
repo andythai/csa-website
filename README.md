@@ -1,5 +1,5 @@
 # csa-website
-This repository is the UCSD Chancellor's Scholars Alliance website, used to collaborate changes between the Webmasters for the Chancellor's Scholars Alliance and to keep a backup of the website available. 
+This repository holds the UCSD Chancellor's Scholars Alliance website, used to collaborate changes between the Webmasters for the Chancellor's Scholars Alliance and to keep a backup of the website available. 
 
 
 Preview at https://rawgit.com/andythai/csa-website/master/index.html
