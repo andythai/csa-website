@@ -1,6 +1,5 @@
 # csa-website
-The UCSD Chancellor's Scholars Alliance website.
-Repository used to collaborate changes between the Webmasters for the Chancellor's Scholars Alliance and to keep a backup of the website available. 
+This repository is the UCSD Chancellor's Scholars Alliance website, used to collaborate changes between the Webmasters for the Chancellor's Scholars Alliance and to keep a backup of the website available. 
 
 
 Authors:
