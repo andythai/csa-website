@@ -11,4 +11,4 @@ Andy Thai - Current Webmaster
 
 Tommy Dang - Current Webmaster Vice-chair
 
-Allen Gong - Former President, original author of website
+Allen Gong - Former President, original designer and implementer of the website
