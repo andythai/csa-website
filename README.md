@@ -6,8 +6,5 @@ Repository used to collaborate changes between the Webmasters for the Chancellor
 Authors:
 
 Andy Thai - Current Webmaster
-
 Tommy Dang - Current Webmaster Vice-chair
-
-Allen Gong - Former President, original author of website template
-
+Allen Gong - Former President, original author of website
