@@ -4,8 +4,8 @@ This repository holds the UCSD Chancellor's Scholars Alliance website, used to c
 
 Preview at https://rawgit.com/andythai/csa-website/master/index.html
 
-
-Authors:
+---
+<strong>Contributors:</strong>
 
 Andy Thai<br>
 2015 - current Webmaster
