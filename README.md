@@ -7,13 +7,13 @@ Preview at https://rawgit.com/andythai/csa-website/master/index.html
 ---
 <strong>Contributors:</strong>
 
-Andy Thai<br>
-2015 - current Webmaster
+Andy Thai (2015-current)<br>
+Webmaster
 
 
-Tommy Dang<br>
-2016 - current Webmaster Vice-chair
+Tommy Dang (2016-current)<br>
+Webmaster Vice-chair
 
 
-Allen Gong<br>
-2013 - 2015 President, original designer of website
+Allen Gong (2013-2015)<br>
+President, original website designer
