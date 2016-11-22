@@ -16,4 +16,4 @@ Webmaster Vice-chair
 
 
 Allen Gong (2013-2015)<br>
-Former President, original website designer
+Former President, website designer
