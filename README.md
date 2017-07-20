@@ -8,13 +8,17 @@ Preview at https://rawgit.com/andythai/csa-website/master/index.html
 <strong>Contributors:</strong>
 
 Andy Thai<br>
-(2015-current)<br>
-Webmaster
+(2015-2017)<br>
+Webmaster<br>
+(2017-current)<br>
+Vice President
 
 
 Tommy Dang<br>
-(2016-current)<br>
-Webmaster Vice-chair
+(2016-2017)<br>
+Webmaster Vice-chair<br>
+(2017-current)<br>
+Webmaster
 
 
 Allen Gong<br> 
