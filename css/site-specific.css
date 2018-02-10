@@ -65,9 +65,10 @@ body, html {
 }
 .csa-main-updates {
 	background-color:rgba(233,233,233,.7);
-	height:300px;
+	height: auto;
 	border:1px solid transparent;
 	border-radius:5px;
+	padding: 3px 5px;
 }
 .csa-pitch {
 
@@ -107,7 +108,7 @@ body, html {
 	position:relative;
 }
 .main-col {
-	padding-top: 5%;
+	padding-top: 19%;
 }
 .main-col-single {
 	color:white;
