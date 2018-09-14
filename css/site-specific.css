@@ -14,17 +14,35 @@ body, html {
 .contact-main .col-1{
 	border-right:1px solid rgba(233,233,233,.7);
 }
-.csa-board .col-sm-6{
+.csa-board .col-sm-6 {
 	border:1px solid rgba(233,233,233,.7);
 	padding:10px;
 	height:500px;
 }
+
+.csa-board .col-sm-3 {
+	border-left: 5px solid rgba(233,233,233,.7);
+	border-top: 5px solid rgba(233,233,233,.7);
+	padding:20px;
+	height:500px;
+}
+
+.csa-board .col-sm-3:nth-child(4n+0) {
+	border-right: 5px solid rgba(233,233,233,.7);
+}
+
+.csa-board .col-sm-3:nth-child(1n+17) {
+	border-bottom: 5px solid rgba(233,233,233,.7)
+}
+
 .csa-board .col-sm-6:nth-child(even) {
 	border-right: none;
 }
+
 .csa-board .board-image img {
 	width:50% !important;
 }
+
 .csa-calendar iframe {
 	width:100%;
 }
@@ -65,7 +83,7 @@ body, html {
 }
 .csa-main-updates {
 	background-color:rgba(233,233,233,.7);
-	height: auto;
+	height: 100%;
 	border:1px solid transparent;
 	border-radius:5px;
 	padding: 3px 5px;
@@ -108,7 +126,10 @@ body, html {
 	position:relative;
 }
 .main-col {
-	padding-top: 19%;
+	position: absolute;
+	bottom: 10px;
+	right: 0px;
+	width: 60%;
 }
 .main-col-single {
 	color:white;
@@ -130,4 +151,36 @@ body, html {
 }
 .social-media img {
 	width:35px;
+}
+
+.peer-mentoring {
+	margin: 2%;
+}
+
+.peer-mentoring-image img {
+	width: 50%;
+	border-radius:50%;
+}
+
+.peer-mentoring-desc p {
+	margin: 15px;
+}
+
+.event-header {
+	text-align: center;
+}
+
+.event-col {
+	background-color:#E3E9FF;
+	padding: 10px;
+	border-bottom: 2px solid #ddd;
+	text-align: center;
+	height: 100px;
+	margin: 0px;
+}
+
+.event-item {
+	padding: 10px;
+	height: 150px;
+	border-bottom: 1px solid #ddd;
 }
