@@ -129,7 +129,6 @@ body, html {
 	position: absolute;
 	bottom: 10px;
 	right: 0px;
-	width: 60%;
 }
 .main-col-single {
 	color:white;
@@ -175,12 +174,12 @@ body, html {
 	padding: 10px;
 	border-bottom: 2px solid #ddd;
 	text-align: center;
-	height: 100px;
+	/*height: 100px;*/
 	margin: 0px;
 }
 
 .event-item {
 	padding: 10px;
-	height: 150px;
+	/*height: 150px;*/
 	border-bottom: 1px solid #ddd;
 }
