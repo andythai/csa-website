@@ -20,7 +20,7 @@ body, html {
 	height:500px;
 }
 
-.csa-board .col-sm-3 {
+.csa-board > .col-sm-3 {
 	border-left: 5px solid rgba(233,233,233,.7);
 	border-top: 5px solid rgba(233,233,233,.7);
 	padding:20px;
@@ -150,6 +150,50 @@ body, html {
 }
 .social-media img {
 	width:35px;
+}
+
+.spotlight-tab-content {
+	padding: 10px;
+}
+
+.spotlight-tab-content p {
+	text-align: left;
+}
+
+.spotlight-desc {
+	padding: 30px 30px 5px 0px;
+}
+
+.spotlight-btn {
+	color: white;
+	background-color: #0B4A67;
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.spotlight-btn:hover {
+	background-color: #0f6b96;
+}
+
+.spotlight-brief {
+	padding: 20px 10px 10px 0px;
+	font-size: 18px;
+}
+
+.csa-board .spotlight-scholar {
+	height: auto;
+	min-height: 200px;
+	border: 5px solid rgba(233, 233, 233, .7);
+	padding: 10px 5px;
+	overflow: auto;
+	width: 100%;
+}
+
+/* Go from zero to full opacity */
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
 }
 
 .peer-mentoring {
